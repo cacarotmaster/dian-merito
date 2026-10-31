@@ -1,0 +1,16 @@
+{
+  "name": "Ruta al Mérito · DIAN 2676",
+  "short_name": "Ruta al Mérito",
+  "description": "Entrenador diario para el concurso de méritos DIAN 2676 — Gestor II, Fiscalización y Liquidación.",
+  "lang": "es-CO",
+  "start_url": "/dian-merito/",
+  "scope": "/dian-merito/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#061729",
+  "theme_color": "#071a2f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
