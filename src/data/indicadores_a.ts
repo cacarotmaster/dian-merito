@@ -527,7 +527,7 @@ export const indicadoresA = [
     ],
     "correct": 0,
     "explain": "El emplazamiento invita al omiso a declarar dentro del mes siguiente a su notificación. Si no lo hace, procede la sanción por no declarar y la liquidación de aforo, contra la cual cabe el recurso de reconsideración. No se paga un impuesto estimado sin declaración y los plazos de dos años o tres meses no corresponden.",
-    "source": "Estatuto Tributario, arts. 643, 715 y 719."
+    "source": "Estatuto Tributario, arts. 715 a 717."
   },
   {
     "id": "ind34",
