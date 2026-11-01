@@ -131,7 +131,7 @@ export default function App() {
     return (
       <div className="onboard">
         <div className="onboard-card">
-          <div className="badge">DIAN 2676 · Gestor II · Fiscalización</div>
+          <div className="badge">DIAN 2676 · Gestor II · Empleo 236765</div>
           <h1>
             Ruta al <span className="gold">Mérito</span>
           </h1>
